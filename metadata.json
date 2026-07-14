@@ -1,0 +1,6 @@
+{
+  "name": "MoveSync 3D",
+  "description": "Aplicación inteligente para organización de mudanzas con visualización 3D interactiva y sincronización colaborativa en tiempo real.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
